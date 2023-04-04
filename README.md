@@ -1,6 +1,16 @@
 # Imersão Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /> - Alura
 ## Durante a semana tivemos que construir uma aplicação para consumir uma API de imagens e em seguida gerar stickers.
 
+**Exemplo de Resultado:**
+
+<table>
+  <tr>
+    <td align="center">      
+     <img src="https://user-images.githubusercontent.com/111379005/229869326-37abf193-2956-494f-8236-cd2c9d779e50.png" width="450" />
+    </td>
+  </tr>
+</table>
+
 **Ferramentas utilizadas:**
 
 | Framework  | Link   | Banco de Dados | Link   | Plataforma API | Link    |
