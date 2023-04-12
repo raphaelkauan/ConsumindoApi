@@ -34,7 +34,7 @@ public class GeradorDeFigurinhas {
         graphics.setFont(fonte);
 
         // escrever uma frase na nova imagem
-        graphics.drawString("A Noite Estrelada de Van Gogh", 50, novaAltura - 100);
+        graphics.drawString("Amo!", 50, novaAltura - 100);
 
         // escrever a nova imagem em um arquivo
         ImageIO.write(novaImagem, "png", new File(nomeArquivo));

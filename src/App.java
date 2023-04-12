@@ -10,7 +10,7 @@ public class App {
 
         // fazer uma conexão HTTP e bucar os top 250 filmes
         ExtratorDeConteudo extrator = new ExtratorIMDB();
-        String url = "https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json";
+        String url = "https://raphael-linguagens.fly.dev/linguagens";
 
         var http = new ClienteHttp();
         String json = http.buscaDados(url);
